@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div{
+    width: 800px;
+    height: 600px;
+    background-color: rgb(255, 87, 87);
+    margin: auto;
+    padding-top: 25px;
+    border: 3px solid black;
+}
+.div1{
+    width: 600px;
+    height: 50px;
+    background-color: rgb(233, 233, 233);
+    margin: auto;
+    padding-top: 14px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.text1{
+    font-family: 'Gluten', cursive;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.div2{
+    width: 600px;
+    height: 50px;
+    background-color: rgb(233, 233, 233);
+    margin: auto;
+    padding-top: 14px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.div3{
+    width: 600px;
+    height: 50px;
+    background-color: rgb(233, 233, 233);
+    margin: auto;
+    padding-top: 14px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.div4{
+    width: 600px;
+    height: 50px;
+    background-color: rgb(233, 233, 233);
+    margin: auto;
+    padding-top: 14px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.div5{
+    width: 600px;
+    height: 50px;
+    background-color: rgb(233, 233, 233);
+    margin: auto;
+    padding-top: 14px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.div6{
+    width: 100px;
+    height: 50px;
+    background-color: cornflowerblue;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.div7{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(255, 190, 203);
+    font-size: 25px;
+}
